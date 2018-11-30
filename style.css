@@ -1,0 +1,80 @@
+body {
+    font-family: Verdana;
+    font-size: 12px;
+	background:url("photo-1511690656952-34342bb7c2f2.jpg");
+	background-size:cover;
+	
+}
+#a
+{
+	text-align:center;
+	text-shadow:50px;
+	font-family:algerian;
+	font-size:50px;
+	
+}
+#header{
+ height: 70px;
+ color:white;
+ font-size: 20px;
+}
+#header h1{
+ padding-top: 25px;
+ 
+}
+#sub{
+ background:-webkit-linear-gradient(left,white ,black);
+ width: 200px;
+ height: 40px;
+ color: black;
+ font-size: 25px;
+ border:none;
+ border-radius:20px 0px 20px 0px ;
+ 
+}
+#sub:hover{
+	background-color:white;
+	color:red;
+}
+
+#container {
+    width: 700px;
+    margin: 150px auto;
+   background-color:white;
+    overflow: hidden; 
+    padding: 15px;
+   opacity:0.8;	
+   border-radius:20px 200px 200px 20px ;
+}
+#idcity
+{
+	 width: 170px;
+	height:40px;
+	border-bottom-style:dotted;
+}
+
+
+#main {
+ width: 490px;
+ float: left;
+ 
+}
+
+
+#main table { 
+     width: 480px; 
+} 
+
+#main table th { 
+    padding: 10px; 
+    background-color: black; 
+    color: white; 
+    text-align: left; 
+  }
+
+#main table td { 
+      padding: 5px; 
+            } 
+#main table tr { 
+      background-color: #d3dcf2; 
+  }
